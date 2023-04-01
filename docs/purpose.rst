@@ -9,8 +9,9 @@ Write me ...
     :members:
     :undoc-members:
     :show-inheritance:
+    :noindex:
 
-    .. autofunction:: mode.mode
+
 
 Basics
 ----------
