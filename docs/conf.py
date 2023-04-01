@@ -169,6 +169,6 @@ texinfo_documents = [
 html_context = {
   'display_github': True,
   'github_user': 'Nin17',
-  'github_repo': 'tests',
+  'github_repo': 'test',
   'github_version': 'main/docs/',
 }
