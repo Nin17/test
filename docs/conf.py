@@ -165,10 +165,9 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-
 html_context = {
   'display_github': True,
   'github_user': 'Nin17',
   'github_repo': 'test',
-  'github_version': 'main/docs/',
+  'github_version': 'main',
 }
