@@ -8,7 +8,7 @@ Basics
 ==========
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
 
    purpose.rst
    dependencies.rst

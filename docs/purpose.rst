@@ -5,8 +5,8 @@ Purpose
 
 Write me ...
 
-.. autofunction:: source.mode.mode
-    
+.. autofunction:: mode.mode
+
 Basics
 ----------
 
