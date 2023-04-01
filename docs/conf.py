@@ -166,4 +166,9 @@ texinfo_documents = [
 ]
 
 
-github_url = "https://github.com/Nin17/test"
+html_context = {
+  'display_github': True,
+  'github_user': 'Nin17',
+  'github_repo': 'tests',
+  'github_version': 'main/docs/',
+}
