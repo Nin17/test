@@ -1,6 +1,10 @@
 # mode.py
 from collections import Counter
 
+
+def idk(a, b):
+  return a * b
+
 def mode(data):
   counter = Counter(data)
   _, top_count = counter.most_common(1)[0]
