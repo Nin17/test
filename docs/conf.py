@@ -165,3 +165,5 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
+
+github_url = "https://github.com/Nin17/test"
