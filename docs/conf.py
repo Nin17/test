@@ -20,6 +20,7 @@
 import os
 import sys
 sys.path.insert(0, os.path.abspath('../source'))
+sys.path.insert(0, os.path.abspath('_ext'))
 
 
 # -- General configuration ------------------------------------------------
@@ -31,7 +32,7 @@ sys.path.insert(0, os.path.abspath('../source'))
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.autodoc']
+extensions = ['sphinx.ext.autodoc', 'edit_on_github']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -166,4 +167,6 @@ texinfo_documents = [
 ]
 
 
+edit_on_github_project = 'nin17/tests'
+edit_on_github_branch = 'main'
 
